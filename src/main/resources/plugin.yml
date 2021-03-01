@@ -1,0 +1,9 @@
+name: Paintball
+main: net.smart.paintball.Paintball
+version: 1.0.0-SNAPSHOT
+author: Smart
+description: https://github.com/SmartBR/Paintball
+api-version: 1.13
+
+commands:
+  game:
